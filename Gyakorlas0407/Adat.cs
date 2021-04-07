@@ -24,9 +24,15 @@ namespace Gyakorlas0407
             this.nev = s[0];
             this.kor = int.Parse(s[1]);
             this.hely = s[2];
-            this.ker = int.Parse(s[2]);
+            this.ker = int.Parse(s[3]);
 
         }
+
+        public string getNev() { return nev; }
+        public int getKor() { return kor; }
+        public string getHely() { return hely; }
+        public int getKer() { return ker; }
+
 
 
     }
