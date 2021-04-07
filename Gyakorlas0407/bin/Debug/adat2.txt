@@ -1,0 +1,7 @@
+NEV|KOR|HELY|KER
+Béla|35|Budapest|20
+József|39|Vác	
+Anna|23	Budapest|13
+László|29|Budapest|13
+Mária|96|Budapest|6
+Ilona|58|Fót	

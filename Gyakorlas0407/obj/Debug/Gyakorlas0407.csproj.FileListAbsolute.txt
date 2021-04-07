@@ -1,0 +1,7 @@
+C:\Users\CFY\source\repos\Gyakorlas0407\Gyakorlas0407\obj\Debug\Gyakorlas0407.csprojAssemblyReference.cache
+C:\Users\CFY\source\repos\Gyakorlas0407\Gyakorlas0407\obj\Debug\Gyakorlas0407.csproj.CoreCompileInputs.cache
+C:\Users\CFY\source\repos\Gyakorlas0407\Gyakorlas0407\bin\Debug\Gyakorlas0407.exe.config
+C:\Users\CFY\source\repos\Gyakorlas0407\Gyakorlas0407\bin\Debug\Gyakorlas0407.exe
+C:\Users\CFY\source\repos\Gyakorlas0407\Gyakorlas0407\bin\Debug\Gyakorlas0407.pdb
+C:\Users\CFY\source\repos\Gyakorlas0407\Gyakorlas0407\obj\Debug\Gyakorlas0407.exe
+C:\Users\CFY\source\repos\Gyakorlas0407\Gyakorlas0407\obj\Debug\Gyakorlas0407.pdb
